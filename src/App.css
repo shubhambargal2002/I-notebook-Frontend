@@ -1,0 +1,157 @@
+.section-signup{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 10px 5px 20px 10px grey;
+}
+
+.signup{
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  justify-content: center;
+  align-items: center;
+}
+
+.signup-image{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact-info{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.box{
+  display: flex;
+  flex-direction: column;
+  border: 2px solid black;
+  border-radius: 5px;
+  margin: 30px 4px;
+  padding: 2px 4px;
+  width: 400px;
+}
+
+.contact-form{
+  display: flex;
+  flex-direction: row;
+}
+
+.contact-form-box{
+  display: flex;
+  flex-direction: column;
+  margin: 30px 4px;
+  padding: 2px 4px;
+  width: 200px;
+}
+
+.home{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+i{
+  cursor: pointer;
+}
+
+.aboutus-section{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  color: white;
+  margin: 4px 0px;
+}
+
+.freetrialbtn{
+  padding: 3px 4px;
+  border: 2px solid red;
+  border-radius: 8px;
+  padding: 8px;
+  background-color: bisque;
+  margin: 6px 0px;
+  font-size: 20px;
+}
+
+.cchome{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 75px 10px;
+  padding: 40px 10px;
+  box-shadow: 10px 5px 20px 10px grey;
+}
+
+.chome{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.ccprofile{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.cprofile{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 900px;
+  height: 360px;
+  box-shadow: 10px 5px 20px 10px grey;
+}
+
+.profile{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile-info{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+}
+
+.left{
+  display: flex;
+  flex-direction: column;
+  font-size: 17px;
+}
+
+.right{
+  display: flex;
+  flex-direction: column;
+}
+
+.contact{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 755px;
+  box-shadow: 10px 5px 20px 10px grey;
+}
+
+.ccontact{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
